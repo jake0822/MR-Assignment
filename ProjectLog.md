@@ -6,8 +6,8 @@
 |      Jake    |     Developer     |    2/13/25    |      Edited the Kinematic Totem Prefab to have a burger mesh and be grabable in all exis       |
 |     Jake     |     Student of Kaitlyn     |    2/13/25    |      Made a physics material for the collider to make it bouncy       |
 |     Jake     |     Student of Kai     |    2/13/25    |       added another attach transform      |
-|          |          |        |             |
-|          |          |        |             |
+|       Kai   | ChatGPT Particle Accelerator         |   2/13/25     |   Made burger confetti blaster          |
+|     Kai      | Online PhotoShop Expert         |    2/13/25     |   Removed background from the screenshot of Jake's hamburger model         |
 |          |          |        |             |
 |          |          |        |             |
 |          |          |        |             |
