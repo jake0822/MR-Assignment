@@ -8,7 +8,7 @@
 |     Jake     |     Student of Kai     |    2/13/25    |       added another attach transform      |
 |       Kai   | ChatGPT Particle Accelerator         |   2/13/25     |   Made burger confetti blaster          |
 |     Kai      | Online PhotoShop Expert         |    2/13/25     |   Removed background from the screenshot of Jake's hamburger model         |
-|     Jake     |     Researcher     |    2/13/25    |       In the context of XR, 'Gaze' means the ddirecction in which you're looking. There are components in OpenXR, like Gaze Interactor, that allow objects to do certain things when you are looking at them. It can also be used with eye trcking technology      |
+|     Jake     |     Researcher     |    2/13/25    |       In the context of XR, 'Gaze' means the direction in which you're looking. There are components in OpenXR, like Gaze Interactor, that allow objects to do certain things when you are looking at them. It can also be used with eye trcking technology      |
 |          |          |        |             |
 |          |          |        |             |
 |          |          |        |             |
