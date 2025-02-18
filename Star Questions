@@ -1,0 +1,6 @@
+The project has several references to "gaze.” What does gaze mean in XR?
+
+- In XR, gaze refers to where the player (or user) is looking, which is more complicated than it sounds. 
+Usually, gaze tracks with player head or eye movement, and it is governed by field-of-view and headset hardware.
+The applications of gaze are wide-ranging, from selecting objects to interacting with NPCs and improving performance
+based on where the player is looking with practices such as foveated rendering.
